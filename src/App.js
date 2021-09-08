@@ -4,7 +4,7 @@ import Input from "./app/components/input";
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       {/* todo list */}
       {/* done */}
       <Input />
