@@ -25,6 +25,7 @@ function App() {
             <TodoItem name={item.item} done={item.done} id={item.id} />
           ))}
         </div>
+        <Input />
       </div>
     </div>
   );
